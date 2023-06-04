@@ -1,3 +1,12 @@
+/*
+CPCS-324 Project, Part1 
+Nawal Daftardar 2105630 
+Atheer Alshehri 2105551
+Yara Basager 2105735
+Yasmeen Alhadrami 2107611
+
+*/
+
 package phonenetworkapp;
 
 import GraphFramework.Graph;
